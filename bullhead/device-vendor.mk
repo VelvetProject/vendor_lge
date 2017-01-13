@@ -42,7 +42,6 @@ PRODUCT_PACKAGES += \
     DiagMon \
     DMConfigUpdate \
     DMService \
-    GCS \
     HotwordEnrollment \
     LifeTimerService \
     qcrilmsgtunnel \
